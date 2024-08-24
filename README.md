@@ -1,8 +1,8 @@
 # Tenzies Game 
 
-https://tenzidice.netlify.app/
+https://tenziesdice.netlify.app/
 
-An engaging dice game where players strive to match all dice to the same number using React. The game features seamless interactions, dynamic rendering, and celebratory confetti effects upon success. It’s built with React, React DOM, React Confetti, Nanoid, HTML, CSS, and JavaScript.
+My task is to create a dynamic website that replicates the Tenzies game using React.js and publish it on Netlify. The game is an engaging dice game where players strive to match all dice to the same number. It features seamless interactions, dynamic rendering, and celebratory confetti effects upon success. The project is built with React, React DOM, React Confetti, Nanoid, HTML, CSS, and JavaScript.
 ## **Description:**
 
 ### Technologies used:
